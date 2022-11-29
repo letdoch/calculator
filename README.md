@@ -14,3 +14,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+Pipeline:
+[![Build Status](https://dev.azure.com/fbensch1902/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/letdoch.calculator?branchName=master)](https://dev.azure.com/fbensch1902/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
